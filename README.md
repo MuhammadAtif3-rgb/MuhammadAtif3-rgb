@@ -1,18 +1,25 @@
 # 👋 Hi there, I'm **Muhammad Atif**!
 
 ## 🧠 About Me
-I'm a passionate **Data Scientist** and **Machine Learning Engineer** with hands-on experience in building end-to-end AI systems, deploying ML pipelines, and solving complex computer vision and NLP problems. I love turning data into impactful solutions.
+💡 I'm a passionate **Data Scientist**, **Machine Learning Engineer**, and **Automation Enthusiast** with hands-on experience in building end-to-end AI systems, deploying ML pipelines, and automating workflows. I specialize in solving complex **Computer Vision** and **NLP** problems, turning data and automation into impactful solutions.
 
-🎓 I'm pursuing my **MS in Data Science** at **University of Management and Technology**, Lahore  
-💼 Currently working as **Lead AI Engineer** at **Sensviz**  
-📚 Previously a **Junior Data Scientist** at **Baltoro**  
-🤖 Interested in **LLMs**, **Computer Vision**, **Transformers**, and **Deep Learning**  
-📩 Reach me at: **aliabbas3909@gmail.com**  
+
+
+💼 Currently working as **Ml/AI Engineer** at **Digimark Developers**  
+🤖 Interested in **LLMs**, **Computer Vision**, **Transformers**, **Automation** and **Deep Learning**  
+📩 Reach me at: **atiflodhi926@gmail.com**  
 ⚡ Fun fact: I’ve built systems for Urdu poetry generation, real-time speech recognition, and image captioning!
 
 ---
 
 ## 🧰 Tech Stack
+
+### ⚙️ Automation & Workflow Orchestration
+![n8n](https://img.shields.io/badge/-n8n-1F87E7?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Pabbly](https://img.shields.io/badge/-Pabbly-00BDAE?style=flat-square&logo=pabbly&logoColor=white)
+![APIs](https://img.shields.io/badge/-APIs-02569B?style=flat-square&logo=swagger&logoColor=white)
+![Webhooks](https://img.shields.io/badge/-Webhooks-000000?style=flat-square&logo=webhooks&logoColor=white)
 
 ### 🧠 Machine Learning & AI
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -21,6 +28,14 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with hands
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-AA0000?style=flat-square&logo=python&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/-LightGBM-9ACD32?style=flat-square&logo=lightgbm&logoColor=white)
+
+### 🚀 Backend & API Development
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-02569B?style=flat-square&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 
 ### 🧠 Deep Learning & NLP
 ![Transformers](https://img.shields.io/badge/-Transformers-FFB300?style=flat-square&logo=huggingface&logoColor=black)
@@ -68,8 +83,8 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with hands
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atiflodhi926@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-abbas)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aliabbas)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-atif-lodhi-39a0911a1)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadAtif3-rgb)
 
 </div>
 
