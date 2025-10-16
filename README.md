@@ -8,7 +8,8 @@
 💼 Currently working as **Ml/AI Engineer** at **Digimark Developers**  
 🤖 Interested in **LLMs**, **Computer Vision**, **Transformers**, **Automation** and **Deep Learning**  
 📩 Reach me at: **atiflodhi926@gmail.com**  
-⚡ Fun fact: I’ve built systems for Urdu poetry generation, real-time speech recognition, and image captioning!
+⚡ Fun fact: I trained an **XLNet Transformer** on **Roman Urdu** to detect and filter **harsh or offensive language**, preventing toxic content from spreading online!
+
 
 ---
 
@@ -90,4 +91,4 @@
 
 ---
 
-📝 *Last updated: July 2025*
+📝 *Last updated: Oct 2025*
